@@ -1,0 +1,19 @@
+body{
+    font-family: 'Times New Roman';
+}
+h1{
+    font-size: 15px;
+}
+.banner{
+    position: absolute; width: 100%;
+    overflow: hidden;
+}
+.banner img{
+    width: 150%;
+}
+.heading{
+    color: whitesmoke; font-size: 90px; top: 60%; width: 100%;position: absolute; text-align: center;
+}
+.heading h2{
+    text-align: center;
+}
